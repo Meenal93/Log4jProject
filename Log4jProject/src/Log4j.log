@@ -1,0 +1,3 @@
+19/07/2019 11:54:24 DEBUG TestLog4j - This is the debug log
+19/07/2019 11:54:24 INFO  TestLog4j - This is the info log
+19/07/2019 11:54:24 ERROR TestLog4j - Error is
